@@ -4,7 +4,7 @@ A project from the book, ['Automate the Boring Stuff' by Al Sweigart](https://au
 
 ## Pre-requisites
 - Python 3.7.3
-- Packages as given in [Requirements.txt](https://github.com/rockerthatrocks/xkcd/blob/master/requirements.txt)
+- Requests and BeautifulSoup packages. [requirements.txt](https://github.com/rockerthatrocks/xkcd/blob/master/requirements.txt)
 
 ## Installing
 - Install the required packages by running the following command:
