@@ -1,12 +1,8 @@
-#! python
-#! python3
-# xkcd.py
+import bs4, requests, sys, os, re
 
 """ 
 Downloads the latest xkcd comics
 """
-
-import bs4, requests, sys, os, re
 
 # Make a directory to store the comics
 os.makedirs('xkcd', exist_ok=True)
